@@ -1,5 +1,4 @@
 package Messenger.model;
-
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
